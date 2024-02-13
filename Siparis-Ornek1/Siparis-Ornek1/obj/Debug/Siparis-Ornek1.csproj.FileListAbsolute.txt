@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\bin\Debug\Siparis-Ornek1.exe.config
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\bin\Debug\Siparis-Ornek1.exe
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\bin\Debug\Siparis-Ornek1.pdb
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\obj\Debug\Siparis-Ornek1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\obj\Debug\Siparis-Ornek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\obj\Debug\Siparis_Ornek1.Form1.resources
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\obj\Debug\Siparis_Ornek1.Properties.Resources.resources
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\obj\Debug\Siparis-Ornek1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\obj\Debug\Siparis-Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\obj\Debug\Siparis-Ornek1.exe
+C:\Users\User\Desktop\Siparis-Ornek1\Siparis-Ornek1\obj\Debug\Siparis-Ornek1.pdb

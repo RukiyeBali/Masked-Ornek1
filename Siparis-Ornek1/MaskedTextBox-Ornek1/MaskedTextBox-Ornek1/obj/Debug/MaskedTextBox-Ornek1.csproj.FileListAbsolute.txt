@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\MaskedTextBox-Ornek1\MaskedTextBox-Ornek1\bin\Debug\MaskedTextBox-Ornek1.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\MaskedTextBox-Ornek1\MaskedTextBox-Ornek1\bin\Debug\MaskedTextBox-Ornek1.exe
+C:\Users\student\Desktop\Ahmet\ntp\MaskedTextBox-Ornek1\MaskedTextBox-Ornek1\bin\Debug\MaskedTextBox-Ornek1.pdb
+C:\Users\student\Desktop\Ahmet\ntp\MaskedTextBox-Ornek1\MaskedTextBox-Ornek1\obj\Debug\MaskedTextBox-Ornek1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\MaskedTextBox-Ornek1\MaskedTextBox-Ornek1\obj\Debug\MaskedTextBox_Ornek1.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\MaskedTextBox-Ornek1\MaskedTextBox-Ornek1\obj\Debug\MaskedTextBox_Ornek1.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\MaskedTextBox-Ornek1\MaskedTextBox-Ornek1\obj\Debug\MaskedTextBox-Ornek1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\MaskedTextBox-Ornek1\MaskedTextBox-Ornek1\obj\Debug\MaskedTextBox-Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\MaskedTextBox-Ornek1\MaskedTextBox-Ornek1\obj\Debug\MaskedTextBox-Ornek1.exe
+C:\Users\student\Desktop\Ahmet\ntp\MaskedTextBox-Ornek1\MaskedTextBox-Ornek1\obj\Debug\MaskedTextBox-Ornek1.pdb
